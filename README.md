@@ -1,1 +1,2 @@
 # wordsearch
+Educational Wordsearch Project
