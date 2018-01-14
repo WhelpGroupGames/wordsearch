@@ -1,5 +1,0 @@
-This is just a test
-
-Now testing profile info.
-
-Now testing git changes.
