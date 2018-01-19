@@ -160,7 +160,7 @@ PlayerSettings:
   applicationIdentifier:
     iOS: ca.game-dev.wordsearch
   buildNumber:
-    iOS: 2
+    iOS: 4
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 16
   AndroidTargetSdkVersion: 0
